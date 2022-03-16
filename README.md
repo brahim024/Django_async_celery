@@ -1,2 +1,2 @@
 # binance_realtime
-simple realtime binance track data
+simple workflow with django and celery
